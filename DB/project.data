@@ -1,0 +1,19 @@
+
+{
+  ID : 0
+  name : NEW PRO
+  users : 1|2|
+  created : 12/12/2022
+  deadline : 12/12/2022
+  tasks : 5|2|1|
+  description : Ankap ban gri chgitem
+}
+{
+  ID : 1
+  name : NEW LIST
+  users : 2|
+  created : 12/12/2022
+  deadline : 22/12/2025
+  tasks : 2|
+  description : HAVAY
+}
