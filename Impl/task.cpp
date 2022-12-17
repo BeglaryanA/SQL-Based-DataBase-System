@@ -1,4 +1,4 @@
-#include </home/andranik/Desktop/MySQL/header/task.h>
+#include "../header/task.h"
 
 int TaskDB::ID = 0;
 

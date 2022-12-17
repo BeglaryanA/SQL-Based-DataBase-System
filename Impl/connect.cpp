@@ -1,5 +1,5 @@
-#include </home/andranik/Desktop/MySQL/header/connect.h>
-#include </home/andranik/Desktop/MySQL/pars.h>
+#include "../header/connect.h"
+#include "../pars.h"
 
 Connect::Connect() {}
 
